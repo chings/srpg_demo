@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<character>
+  <name>Ariel the Sorceress</name>
+  <resource id="sprite_sorceress"/>
+  <properties>
+    <maxLife class="int">200</maxLife>
+    <maxEnergy class="int">200</maxEnergy>
+    <maxActivity class="int">70</maxActivity>
+    <attackPower class="int">10</attackPower>
+    <spellPower class="int">45</spellPower>
+    <armorClass class="int">10</armorClass>
+    <magicResistance class="int">30</magicResistance>
+    <lightningOverload class="float">0.5</lightningOverload>
+  </properties>
+  <weapons>
+    <weapon id="weapon_runed_staff"/>
+  </weapons>
+  <abilities>
+    <ability id="ability_magic_missile"/>
+    <ability id="ability_fireball"/>
+    <ability id="ability_ice_blast"/>
+    <ability id="ability_chain_lightning"/>
+    <ability id="ability_teleport"/>
+  </abilities>
+</character>

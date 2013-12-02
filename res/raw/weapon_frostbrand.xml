@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<weapon>
+  <name>Frostbrand</name>
+  <resource id="icon_frostbrand"/>
+  <tags>Melee,Sword,Scimitar,Cold</tags>
+  <properties>
+    <damage>30,40</damage>
+    <range class="int[]">1</range>
+  </properties>
+  <abilities>
+    <ability id="ability_attack">
+      <name>Frostbrand: Attack</name>
+      <resource id="icon_frostbrand"/>
+    </ability>
+  </abilities>
+</weapon>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ability class="cn.ching.srpg_demo.game.battle.abilities.SmiteEvil">
+  <name>Smite Evil</name>
+  <resource id="icon_smite_evil"/>
+  <tags>Feat,Melee,Holy</tags>
+  <properties>
+    <energyCost>20</energyCost>
+  </properties>
+</ability>

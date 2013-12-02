@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ability class="cn.ching.srpg_demo.game.battle.abilities.Bite">
+  <name>Bite</name>
+  <resource id="icon_bite"/>
+  <tags>Feat,Physics</tags>
+  <properties>
+    <energyCost>10</energyCost>
+    <range class="int[]">1</range>
+    <damage class="int[]">30,50</damage>
+  </properties>
+</ability>

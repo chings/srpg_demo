@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<character>
+  <name>Dire Wolf</name>
+  <resource id="sprite_wolf"/>
+  <properties>
+    <maxLife class="int">300</maxLife>
+    <maxEnergy class="int">50</maxEnergy>
+    <maxActivity class="int">80</maxActivity>
+    <attackPower class="int">35</attackPower>
+    <armorClass class="int">15</armorClass>
+    <magicResistance class="int">15</magicResistance>
+    <backstabbing class="boolean">true</backstabbing>
+  </properties>
+  <weapons/>
+  <abilities>
+    <ability id="ability_bite"/>
+  </abilities>
+</character>

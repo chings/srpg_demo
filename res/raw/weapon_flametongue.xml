@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<weapon>
+  <name>Flametongue</name>
+  <resource id="icon_flametongue"/>
+  <tags>Melee,Sword,Scimitar,Fire</tags>
+  <properties>
+    <damage>25,45</damage>
+    <range class="int[]">1</range>
+  </properties>
+  <abilities>
+    <ability id="ability_attack">
+      <name>Flametongue: Attack</name>
+      <resource id="icon_flametongue"/>
+    </ability>
+  </abilities>
+</weapon>

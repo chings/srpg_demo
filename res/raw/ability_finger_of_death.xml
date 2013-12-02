@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ability class="cn.ching.srpg_demo.game.battle.abilities.FingerOfDeath">
+  <name>Finger of Death</name>
+  <resource id="icon_finger_of_death"/>
+  <tags>Spell,Shadow</tags>
+  <properties>
+	<energyCost>40</energyCost>
+    <range class="int[]">1,5</range>
+    <damage class="int[]">100,200</damage>
+  </properties>
+</ability>

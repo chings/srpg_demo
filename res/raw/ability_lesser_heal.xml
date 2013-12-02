@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ability class="cn.ching.srpg_demo.game.battle.abilities.LesserHeal">
+  <name>Lesser Heal</name>
+  <resource id="icon_staff"/>
+  <tags>Heal,Magical</tags>
+  <properties/>
+</ability>

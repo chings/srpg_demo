@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<weapon>
+  <name>Elven Longbow</name>
+  <resource id="icon_elven_longbow"/>
+  <tags>Ranged,Bow</tags>
+  <properties>
+    <damage>30,40</damage>
+    <range>2,7</range>
+  </properties>
+  <abilities>
+    <ability id="ability_attack">
+      <name>Elven Longbow: Attack</name>
+      <resource id="icon_elven_longbow"/>
+    </ability>
+  </abilities>
+</weapon>

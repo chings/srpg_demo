@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<character>
+  <name>Skeleton</name>
+  <resource id="sprite_skeleton"/>
+  <tags>Undead</tags>
+  <properties>
+    <maxLife class="int">200</maxLife>
+    <maxEnergy class="int">50</maxEnergy>
+    <maxActivity class="int">60</maxActivity>
+    <attackPower class="int">25</attackPower>
+    <armorClass class="int">15</armorClass>
+    <magicResistance class="int">5</magicResistance>
+  </properties>
+  <weapons>
+    <weapon id="weapon_broad_sword"/>
+  </weapons>
+  <abilities/>
+</character>

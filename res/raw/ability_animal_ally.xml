@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ability class="cn.ching.srpg_demo.game.battle.abilities.AnimalAlly">
+  <name>Animal Ally</name>
+  <resource id="icon_wolf"/>
+  <tags>Spell,Summon,Nature</tags>
+  <properties>
+    <energyCost>40</energyCost>
+    <range class="int[]">1,2</range>
+  </properties>
+</ability>

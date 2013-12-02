@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ability class="cn.ching.srpg_demo.game.battle.abilities.Teleport">
+  <name>Teleport</name>
+  <resource id="icon_teleport"/>
+  <tags>Spell</tags>
+  <properties>
+    <energyCost>10</energyCost>
+    <activityCost>50</activityCost>
+    <range class="int[]">1,10</range>
+  </properties>
+</ability>

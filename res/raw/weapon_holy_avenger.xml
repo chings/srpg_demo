@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<weapon>
+  <name>Holy Avenger</name>
+  <resource id="icon_holy_avenger"/>
+  <tags>Melee,Sword,Greatsword,Holy,Epic</tags>
+  <properties>
+    <damage>50,70</damage>
+    <range class="int[]">1</range>
+  </properties>
+  <abilities>
+    <ability id="ability_attack">
+      <name>Holy Avenger: Attack</name>
+      <resource id="icon_holy_avenger"/>
+    </ability>
+  </abilities>
+</weapon>

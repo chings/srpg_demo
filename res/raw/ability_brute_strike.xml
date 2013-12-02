@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ability class="cn.ching.srpg_demo.game.battle.abilities.BruteStrike">
+  <name>Brute Strike</name>
+  <resource id="icon_brute_strike"/>
+  <tags>Feat,Physics</tags>
+  <properties>
+    <energyCost>20</energyCost>
+    <enhancement class="float">2.0</enhancement>
+  </properties>
+</ability>

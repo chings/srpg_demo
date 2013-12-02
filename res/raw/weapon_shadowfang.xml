@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<weapon>
+  <name>Shadowfang</name>
+  <resource id="icon_shadowfang"/>
+  <tags>Melee,Sword,Greatsword,Unholy,Epic</tags>
+  <properties>
+    <damage>50,70</damage>
+    <range class="int[]">1</range>
+  </properties>
+  <abilities>
+    <ability id="ability_attack">
+      <name>Shadowfang: Attack</name>
+      <resource id="icon_sword"/>
+    </ability>
+  </abilities>
+</weapon>

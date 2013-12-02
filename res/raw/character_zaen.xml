@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<character>
+  <name>Zaen the Ranger</name>
+  <resource id="sprite_ranger"/>
+  <properties>
+    <maxLife class="int">300</maxLife>
+    <maxEnergy class="int">100</maxEnergy>
+    <maxActivity class="int">80</maxActivity>
+    <attackPower class="int">45</attackPower>
+    <spellPower class="int">10</spellPower>
+    <armorClass class="int">20</armorClass>
+    <magicResistance class="int">20</magicResistance>
+    <backstabbing class="boolean">true</backstabbing>
+    <terrainModification0 class="int">-2</terrainModification0>
+  </properties>
+  <weapons>
+    <weapon id="weapon_elven_longbow"/>
+    <weapon id="weapon_frostbrand"/>
+    <weapon id="weapon_flametongue"/>
+  </weapons>
+  <abilities>
+    <ability id="ability_precise_shot"/>
+    <ability id="ability_dual_wield"/>
+    <ability id="ability_multishot"/>
+    <ability id="ability_animal_ally"/>
+  </abilities>
+</character>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<weapon>
+  <name>Bastard Sword</name>
+  <resource id="icon_bastard_sword"/>
+  <tags>Melee,Sword,BastardSword</tags>
+  <properties>
+    <damage>30,50</damage>
+    <range class="int[]">1</range>
+  </properties>
+  <abilities>
+    <ability id="ability_attack">
+      <name>Bastard Sword: Attack</name>
+      <resource id="icon_sword"/>
+    </ability>
+  </abilities>
+</weapon>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ability class="cn.ching.srpg_demo.game.battle.abilities.Charge">
+  <name>Charge</name>
+  <resource id="icon_charge"/>
+  <tags>Feat,Physics</tags>
+  <properties>
+    <energyCost>30</energyCost>
+    <range class="int[]">3,7</range>
+    <sprintAddition class="float">0.1</sprintAddition>
+  </properties>
+</ability>

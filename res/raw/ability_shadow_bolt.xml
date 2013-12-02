@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ability class="cn.ching.srpg_demo.game.battle.abilities.ShadowBolt">
+  <name>Shadow Bolt</name>
+  <resource id="icon_shadow_bolt"/>
+  <tags>Spell,Ranged,Magical</tags>
+  <properties>
+    <energyCost>10</energyCost>
+    <range class="int[]">1,7</range>
+    <damage class="int[]">30,40</damage>
+  </properties>
+</ability>

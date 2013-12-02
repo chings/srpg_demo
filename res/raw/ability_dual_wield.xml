@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ability class="cn.ching.srpg_demo.game.battle.abilities.DualWield">
+  <name>Dual Wield</name>
+  <resource id="icon_dual_wield"/>
+  <tags>Feat,Melee,Physics</tags>
+  <properties>
+    <energyCost>20</energyCost>
+  </properties>
+</ability>

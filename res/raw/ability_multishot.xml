@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ability class="cn.ching.srpg_demo.game.battle.abilities.Multishot">
+  <name>Multishot</name>
+  <resource id="icon_multishot"/>
+  <tags>Feat,Ranged,Physics</tags>
+  <properties>
+    <energyCost>30</energyCost>
+    <targetNumber>4</targetNumber>
+    <subRange class="int[]">0,2</subRange>
+  </properties>
+</ability>

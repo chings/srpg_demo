@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ability class="cn.ching.srpg_demo.game.battle.abilities.PreciseShot">
+  <name>Precise Shot</name>
+  <resource id="icon_precise_shot"/>
+  <tags>Feat,Ranged,Physics</tags>
+  <properties>
+    <energyCost>10</energyCost>
+    <rangeBonus>4</rangeBonus>
+  </properties>
+</ability>

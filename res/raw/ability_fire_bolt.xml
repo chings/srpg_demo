@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ability class="cn.ching.srpg_demo.game.battle.abilities.FireBolt">
+  <name>Fire Bolt</name>
+  <resource id="icon_staff"/>
+  <tags>Attack,Ranged,Magical</tags>
+  <properties/>
+</ability>

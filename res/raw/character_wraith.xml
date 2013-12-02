@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<character>
+  <name>Wraith</name>
+  <resource id="sprite_wraith"/>
+  <tags>Undead</tags>
+  <properties>
+    <maxLife class="int">200</maxLife>
+    <maxEnergy class="int">100</maxEnergy>
+    <maxActivity class="int">60</maxActivity>
+    <spellPower class="int">40</spellPower>
+    <armorClass class="int">10</armorClass>
+    <magicResistance class="int">50</magicResistance>
+  </properties>
+  <weapons/>
+  <abilities>
+    <ability id="ability_shadow_bolt"/>
+    <ability id="ability_animate_dead"/>
+  </abilities>
+</character>

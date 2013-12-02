@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<character>
+  <name>Leoht the Champion</name>
+  <resource id="sprite_champion"/>
+  <properties>
+    <maxLife class="int">500</maxLife>
+    <maxEnergy class="int">100</maxEnergy>
+    <maxActivity class="int">70</maxActivity>
+    <attackPower class="int">35</attackPower>
+    <spellPower class="int">30</spellPower>
+    <armorClass class="int">30</armorClass>
+    <magicResistance class="int">15</magicResistance>
+    <holyRadiation class="boolean">true</holyRadiation>
+  </properties>
+  <weapons>
+    <weapon id="weapon_holy_avenger"/>
+  </weapons>
+  <abilities>
+    <ability id="ability_smite_evil"/>
+    <ability id="ability_charge"/>
+    <ability id="ability_lay_on_hand"/>
+  </abilities>
+</character>

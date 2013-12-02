@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<ability class="cn.ching.srpg_demo.game.battle.abilities.ChainLightning">
+  <name>Chain Lightning</name>
+  <resource id="icon_chain_lightning"/>
+  <tags>Spell,Lightning</tags>
+  <properties>
+    <energyCost>50</energyCost>
+    <targetNumber>5</targetNumber>
+    <range class="int[]">1,8</range>
+    <subRange class="int[]">1,4</subRange>
+    <damage class="int[]">60,100</damage>
+    <reduction class="float">0.1</reduction>
+  </properties>
+</ability>

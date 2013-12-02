@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<battle>
+  <name>Tutorial</name>
+  <battleground id="battleground_castle"/>
+  <parties>
+    <party>
+      <battler>
+        <position>0,6</position>
+        <orientation>3</orientation>
+      </battler>
+    </party>
+    <party>
+      <battler>
+        <character id="character_skeleton_captain"/>
+        <position>3,6</position>
+        <orientation>-3</orientation>
+      </battler>
+      <battler>
+        <character id="character_skeleton"/>
+        <position>3,5</position>
+        <orientation>-3</orientation>
+      </battler>
+      <battler>
+        <character id="character_skeleton"/>
+        <position>2,7</position>
+        <orientation>-3</orientation>
+      </battler>
+    </party>
+  </parties>
+</battle>

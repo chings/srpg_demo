@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ability class="cn.ching.srpg_demo.game.battle.abilities.AnimateDead">
+  <name>Animate Dead</name>
+  <resource id="icon_animate_dead"/>
+  <tags>Spell,Summon,Shadow</tags>
+  <properties>
+    <energyCost>30</energyCost>
+    <range class="int[]">1,2</range>
+  </properties>
+</ability>

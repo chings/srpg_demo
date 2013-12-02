@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<weapon>
+  <name>Runed Staff</name>
+  <resource id="icon_runed_staff"/>
+  <tags>Ranged,Staff</tags>
+  <properties>
+    <damage>30,50</damage>
+    <healing>30,50</healing>
+    <range class="int[]">0,6</range>
+  </properties>
+  <abilities>
+    <ability id="ability_fire_bolt">
+      <name>Runed Staff: Fire Bolt</name>
+      <resource id="icon_runed_staff"/>
+    </ability>
+    <ability id="ability_lesser_heal">
+      <name>Runed Staff: Lesser Heal</name>
+      <resource id="icon_runed_staff2"/>
+    </ability>
+  </abilities>
+</weapon>

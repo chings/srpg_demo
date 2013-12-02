@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ability class="cn.ching.srpg_demo.game.battle.abilities.IceBlast">
+  <name>Fireball</name>
+  <resource id="icon_ice_blast"/>
+  <tags>Spell,Cold</tags>
+  <properties>
+    <energyCost>40</energyCost>
+    <range class="int[]">0,8</range>
+    <radius class="int">3</radius>
+    <damage class="int[]">10,30</damage>
+    <slowness class="int">40</slowness>
+  </properties>
+</ability>

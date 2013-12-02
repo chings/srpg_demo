@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<weapon>
+  <name>Broad Sword</name>
+  <resource id="icon_sword"/>
+  <tags>Melee,Sword</tags>
+  <properties>
+    <damage>20,30</damage>
+    <range class="int[]">1</range>
+  </properties>
+  <abilities>
+    <ability id="ability_attack">
+      <name>Broad Sword: Attack</name>
+      <resource id="icon_sword"/>
+    </ability>
+  </abilities>
+</weapon>

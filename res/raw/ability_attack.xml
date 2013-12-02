@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ability class="cn.ching.srpg_demo.game.battle.abilities.Attack">
+  <name>Attack</name>
+  <resource id="icon_sword"/>
+  <tags>Attack,Physics</tags>
+  <properties/>
+</ability>

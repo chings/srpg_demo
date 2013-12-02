@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ability class="cn.ching.srpg_demo.game.battle.abilities.LayOnHand">
+  <name>Lay on Hand</name>
+  <resource id="icon_lay_on_hand"/>
+  <tags>Spell,Holy,Healing</tags>
+  <properties>
+    <energyCost>50</energyCost>
+    <range>0,8</range>
+    <healing>100,200</healing>
+  </properties>
+</ability>

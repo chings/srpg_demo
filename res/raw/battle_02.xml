@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<battle>
+  <name>Tutorial</name>
+  <battleground id="battleground_cliff"/>
+  <parties>
+    <party>
+      <battler>
+        <position>0,6</position>
+        <orientation>3</orientation>
+      </battler>
+      <battler>
+        <position>-1,7</position>
+        <orientation>3</orientation>
+      </battler>
+    </party>
+    <party>
+      <battler>
+        <character id="character_skeleton_captain"/>
+        <position>3,6</position>
+        <orientation>-3</orientation>
+      </battler>
+      <battler>
+        <character id="character_skeleton"/>
+        <position>5,5</position>
+        <orientation>-3</orientation>
+      </battler>
+      <battler>
+        <character id="character_skeleton"/>
+        <position>4,7</position>
+        <orientation>-3</orientation>
+      </battler>
+      <battler>
+        <character id="character_skeleton"/>
+        <position>7,4</position>
+        <orientation>-3</orientation>
+      </battler>
+      <battler>
+        <character id="character_wraith"/>
+        <position>6,6</position>
+        <orientation>-3</orientation>
+      </battler>
+      <battler>
+        <character id="character_skeleton"/>
+        <position>5,8</position>
+        <orientation>-3</orientation>
+      </battler>
+      <battler>
+        <character id="character_skeleton_captain"/>
+        <position>9,3</position>
+        <orientation>-3</orientation>
+      </battler>
+      <battler>
+        <character id="character_skeleton"/>
+        <position>8,5</position>
+        <orientation>-3</orientation>
+      </battler>
+      <battler>
+        <character id="character_skeleton"/>
+        <position>7,7</position>
+        <orientation>-3</orientation>
+      </battler>
+      <battler>
+        <character id="character_skeleton_captain"/>
+        <position>6,9</position>
+        <orientation>-3</orientation>
+      </battler>
+    </party>
+  </parties>
+</battle>

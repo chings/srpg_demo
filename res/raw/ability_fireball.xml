@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ability class="cn.ching.srpg_demo.game.battle.abilities.Fireball">
+  <name>Fireball</name>
+  <resource id="icon_fireball"/>
+  <tags>Spell,Fire</tags>
+  <properties>
+    <energyCost>30</energyCost>
+    <range class="int[]">1,8</range>
+    <radius class="int">1</radius>
+    <damage class="int[]">50,70</damage>
+  </properties>
+</ability>

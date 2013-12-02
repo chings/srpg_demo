@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<battle>
+  <name>Tutorial</name>
+  <battleground id="battleground_halloween"/>
+  <parties>
+    <party>
+      <battler>
+        <position>0,6</position>
+        <orientation>3</orientation>
+      </battler>
+      <battler>
+        <position>-1,7</position>
+        <orientation>3</orientation>
+      </battler>
+      <battler>
+        <position>0,5</position>
+        <orientation>3</orientation>
+      </battler>
+    </party>
+    <party>
+      <battler>
+        <character id="character_skeleton"/>
+        <position>6,2</position>
+        <orientation>-3</orientation>
+      </battler>
+      <battler>
+        <character id="character_skeleton"/>
+        <position>5,4</position>
+        <orientation>-3</orientation>
+      </battler>
+      <battler>
+        <character id="character_skeleton"/>
+        <position>4,6</position>
+        <orientation>-3</orientation>
+      </battler>
+      <battler>
+        <character id="character_skeleton"/>
+        <position>3,8</position>
+        <orientation>-3</orientation>
+      </battler>
+      <battler>
+        <character id="character_skeleton"/>
+        <position>2,10</position>
+        <orientation>-3</orientation>
+      </battler>
+      <battler>
+        <character id="character_skeleton_captain"/>
+        <position>8,2</position>
+        <orientation>-3</orientation>
+      </battler>
+      <battler>
+        <character id="character_wraith"/>
+        <position>7,4</position>
+        <orientation>-3</orientation>
+      </battler>
+      <battler>
+        <character id="character_deorc"/>
+        <position>6,6</position>
+        <orientation>-3</orientation>
+      </battler>
+      <battler>
+        <character id="character_wraith"/>
+        <position>5,8</position>
+        <orientation>-3</orientation>
+      </battler>
+      <battler>
+        <character id="character_skeleton_captain"/>
+        <position>4,10</position>
+        <orientation>-3</orientation>
+      </battler>
+    </party>
+  </parties>
+</battle>

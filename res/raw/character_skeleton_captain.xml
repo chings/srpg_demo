@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<character>
+  <name>Skeleton Captain</name>
+  <resource id="sprite_skeleton_armored"/>
+  <tags>Undead</tags>
+  <properties>
+    <maxLife class="int">400</maxLife>
+    <maxEnergy class="int">50</maxEnergy>
+    <maxActivity class="int">60</maxActivity>
+    <attackPower class="int">35</attackPower>
+    <armorClass class="int">20</armorClass>
+    <magicResistance class="int">10</magicResistance>
+  </properties>
+  <weapons>
+    <weapon id="weapon_bastard_sword"/>
+  </weapons>
+  <abilities>
+    <ability id="ability_brute_strike"/>
+  </abilities>
+</character>

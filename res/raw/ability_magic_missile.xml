@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ability class="cn.ching.srpg_demo.game.battle.abilities.MagicMissile">
+  <name>Magic Missile</name>
+  <resource id="icon_magic_missile"/>
+  <tags>Spell,Arcane</tags>
+  <properties>
+    <energyCost>10</energyCost>
+    <targetNumber>5</targetNumber>
+    <range class="int[]">1,10</range>
+    <damage class="int[]">10,20</damage>
+  </properties>
+</ability>
